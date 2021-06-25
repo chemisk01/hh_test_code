@@ -1,0 +1,7 @@
+/vendor
+/node_modules
+/storage/*.key
+/.idea
+.env
+.env.backup
+.DS_Store
